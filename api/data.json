@@ -1,0 +1,508 @@
+[
+
+    {
+      "category": "men",
+      "items": [
+        {
+          "id": 1,
+          "name": "T-Shirt 1",
+          "price": 19.99,
+          "description": "A comfortable and stylish t-shirt for men.",
+          "img": ""
+        },
+        {
+          "id": 2,
+          "name": "T-Shirt 2",
+          "price": 24.99,
+          "description": "A high-quality t-shirt with a unique design.",
+          "img": ""
+        },
+        {
+          "id": 3,
+          "name": "Jeans 1",
+          "price": 49.99,
+          "description": "A classic pair of blue jeans for men.",
+          "img": ""
+        },
+        {
+          "id": 4,
+          "name": "Jeans 2",
+          "price": 59.99,
+          "description": "A stylish and comfortable pair of jeans.",
+          "img": ""
+        },
+        {
+          "id": 5,
+          "name": "Trousers 1",
+          "price": 39.99,
+          "description": "A versatile pair of trousers for men.",
+          "img": ""
+        },
+        {
+          "id": 6,
+          "name": "Trousers 2",
+          "price": 44.99,
+          "description": "A high-quality pair of trousers with a slim fit.",
+          "img": ""
+        },
+        {
+          "id": 7,
+          "name": "Blazer 1",
+          "price": 79.99,
+          "description": "A stylish and professional blazer for men.",
+          "img": ""
+        },
+        {
+          "id": 8,
+          "name": "Blazer 2",
+          "price": 89.99,
+          "description": "A well-tailored blazer with a modern design.",
+          "img": ""
+        },
+        {
+          "id": 9,
+          "name": "Suit 1",
+          "price": 199.99,
+          "description": "A high-quality suit for formal occasions.",
+          "img": ""
+        },
+        {
+          "id": 10,
+          "name": "Suit 2",
+          "price": 249.99,
+          "description": "A stylish and well-fitting suit for men.",
+          "img": ""
+        }
+      ]
+    },
+
+    {
+      "category": "women",
+      "items": [
+        {
+          "id": 11,
+          "name": "Saree 1",
+          "price": 99.99,
+          "description": "A beautiful and elegant saree for women.",
+          "img": ""
+        },
+        {
+          "id": 12,
+          "name": "Saree 2",
+          "price": 129.99,
+          "description": "A stunning saree with intricate designs.",
+          "img": ""
+        },
+        {
+          "id": 13,
+          "name": "Kurta 1",
+          "price": 39.99,
+          "description": "A comfortable and stylish kurta for women.",
+          "img": ""
+        },
+        {
+          "id": 14,
+          "name": "Kurta 2",
+          "price": 49.99,
+          "description": "A high-quality kurta with a modern twist.",
+          "img": ""
+        },
+        {
+          "id": 15,
+          "name": "Jacket 1",
+          "price": 59.99,
+          "description": "A versatile jacket for women.",
+          "img": ""
+        },
+        {
+          "id": 16,
+          "name": "Jacket 2",
+          "price": 69.99,
+          "description": "A stylish and warm jacket for women.",
+          "img": ""
+        },
+        {
+          "id": 17,
+          "name": "T-Shirt 1",
+          "price": 24.99,
+          "description": "A comfortable and fashionable t-shirt for women.",
+          "img": ""
+        },
+        {
+          "id": 18,
+          "name": "T-Shirt 2",
+          "price": 29.99,
+          "description": "A high-quality t-shirt with a unique design for women.",
+          "img": ""
+        },
+        {
+          "id": 19,
+          "name": "Lehenga 1",
+          "price": 149.99,
+          "description": "A beautiful and traditional lehenga for women.",
+          "img": ""
+        },
+        {
+          "id": 20,
+          "name": "Lehenga 2",
+          "price": 179.99,
+          "description": "A stunning lehenga with intricate embroidery.",
+          "img": ""
+        },
+        {
+          "id": 21,
+          "name": "Trousers 1",
+          "price": 44.99,
+          "description": "A comfortable and stylish pair of trousers for women.",
+          "img": ""
+        },
+        {
+          "id": 22,
+          "name": "Trousers 2",
+          "price": 49.99,
+          "description": "A high-quality pair of trousers with a flattering fit.",
+          "img": ""
+        }
+      ]
+    },
+
+    {
+      "category": "boy",
+      "items": [
+        {
+          "id": 23,
+          "name": "Saree 1",
+          "price": 99.99,
+          "description": "A beautiful and elegant saree for women.",
+          "img": ""
+        },
+        {
+          "id": 24,
+          "name": "Saree 2",
+          "price": 129.99,
+          "description": "A stunning saree with intricate designs.",
+          "img": ""
+        },
+        {
+          "id": 25,
+          "name": "Kurta 1",
+          "price": 39.99,
+          "description": "A comfortable and stylish kurta for women.",
+          "img": ""
+        },
+        {
+          "id": 26,
+          "name": "Kurta 2",
+          "price": 49.99,
+          "description": "A high-quality kurta with a modern twist.",
+          "img": ""
+        },
+        {
+          "id": 27,
+          "name": "Jacket 1",
+          "price": 59.99,
+          "description": "A versatile jacket for women.",
+          "img": ""
+        },
+        {
+          "id": 28,
+          "name": "Jacket 2",
+          "price": 69.99,
+          "description": "A stylish and warm jacket for women.",
+          "img": ""
+        },
+        {
+          "id": 29,
+          "name": "T-Shirt 1",
+          "price": 24.99,
+          "description": "A comfortable and fashionable t-shirt for women.",
+          "img": ""
+        },
+        {
+          "id": 30,
+          "name": "T-Shirt 2",
+          "price": 29.99,
+          "description": "A high-quality t-shirt with a unique design for women.",
+          "img": ""
+        },
+        {
+          "id": 31,
+          "name": "Lehenga 1",
+          "price": 149.99,
+          "description": "A beautiful and traditional lehenga for women.",
+          "img": ""
+        },
+        {
+          "id": 32,
+          "name": "Lehenga 2",
+          "price": 179.99,
+          "description": "A stunning lehenga with intricate embroidery.",
+          "img": ""
+        },
+        {
+          "id": 33,
+          "name": "Trousers 1",
+          "price": 44.99,
+          "description": "A comfortable and stylish pair of trousers for women.",
+          "img": ""
+        },
+        {
+          "id": 34,
+          "name": "Trousers 2",
+          "price": 49.99,
+          "description": "A high-quality pair of trousers with a flattering fit.",
+          "img": ""
+        }
+      ]
+    },
+
+    {
+      "category": "girl",
+      "items": [
+        {
+          "id": 35,
+          "name": "Saree 1",
+          "price": 99.99,
+          "description": "A beautiful and elegant saree for women.",
+          "img": ""
+        },
+        {
+          "id": 36,
+          "name": "Saree 2",
+          "price": 129.99,
+          "description": "A stunning saree with intricate designs.",
+          "img": ""
+        },
+        {
+          "id": 37,
+          "name": "Kurta 1",
+          "price": 39.99,
+          "description": "A comfortable and stylish kurta for women.",
+          "img": ""
+        },
+        {
+          "id": 38,
+          "name": "Kurta 2",
+          "price": 49.99,
+          "description": "A high-quality kurta with a modern twist.",
+          "img": ""
+        },
+        {
+          "id": 39,
+          "name": "Jacket 1",
+          "price": 59.99,
+          "description": "A versatile jacket for women.",
+          "img": ""
+        },
+        {
+          "id": 40,
+          "name": "Jacket 2",
+          "price": 69.99,
+          "description": "A stylish and"
+        } 
+      ]
+    },
+
+    {
+        "category": "beauty",
+        "items": [
+          {
+            "id": 41,
+            "name": "Moisturizer 1",
+            "price": 15.99,
+            "description": "A hydrating moisturizer for all skin types.",
+            "img": ""
+          },
+          {
+            "id": 42,
+            "name": "Moisturizer 2",
+            "price": 18.99,
+            "description": "A lightweight moisturizer with SPF protection.",
+            "img": ""
+          },
+          {
+            "id": 43,
+            "name": "Moisturizer 3",
+            "price": 22.99,
+            "description": "A nourishing moisturizer with natural ingredients.",
+            "img": ""
+          },
+          {
+            "id": 44,
+            "name": "Moisturizer 4",
+            "price": 20.99,
+            "description": "A deep moisturizing cream for dry skin.",
+            "img": ""
+          },
+          {
+            "id": 45,
+            "name": "Moisturizer 5",
+            "price": 19.99,
+            "description": "An anti-aging moisturizer with collagen.",
+            "img": ""
+          },
+          {
+            "id": 46,
+            "name": "Hair Dryer 1",
+            "price": 29.99,
+            "description": "A powerful hair dryer for quick drying.",
+            "img": ""
+          },
+          {
+            "id": 47,
+            "name": "Hair Dryer 2",
+            "price": 34.99,
+            "description": "A compact hair dryer with multiple settings.",
+            "img": ""
+          },
+          {
+            "id": 48,
+            "name": "Kajal",
+            "price": 9.99,
+            "description": "A long-lasting kajal for defined eyes.",
+            "img": ""
+          },
+          {
+            "id": 49,
+            "name": "Hair Oil 1",
+            "price": 12.99,
+            "description": "A nourishing hair oil for healthy hair.",
+            "img": ""
+          },
+          {
+            "id": 50,
+            "name": "Hair Oil 2",
+            "price": 14.99,
+            "description": "A lightweight hair oil for daily use.",
+            "img": ""
+          },
+          {
+            "id": 51,
+            "name": "Hair Oil 3",
+            "price": 13.99,
+            "description": "A revitalizing hair oil with natural extracts.",
+            "img": ""
+          },
+          {
+            "id": 52,
+            "name": "Perfume 1",
+            "price": 49.99,
+            "description": "A floral fragrance for a refreshing scent.",
+            "img": ""
+          },
+          {
+            "id": 53,
+            "name": "Perfume 2",
+            "price": 59.99,
+            "description": "A woody perfume with a long-lasting aroma.",
+            "img": ""
+          },
+          {
+            "id": 54,
+            "name": "Perfume 3",
+            "price": 54.99,
+            "description": "A citrus perfume for a vibrant scent.",
+            "img": ""
+          },
+          {
+            "id": 55,
+            "name": "Serum 1",
+            "price": 24.99,
+            "description": "A hydrating serum for glowing skin.",
+            "img": ""
+          },
+          {
+            "id": 56,
+            "name": "Serum 2",
+            "price": 29.99,
+            "description": "An anti-aging serum with vitamin C.",
+            "img": ""
+          },
+          {
+            "id": 57,
+            "name": "Serum 3",
+            "price": 27.99,
+            "description": "A brightening serum for even skin tone.",
+            "img": ""
+          },
+          {
+            "id": 58,
+            "name": "Serum 4",
+            "price": 26.99,
+            "description": "A repairing serum for damaged skin.",
+            "img": ""
+          },
+          {
+            "id": 59,
+            "name": "Serum 5",
+            "price": 28.99,
+            "description": "A firming serum for youthful skin.",
+            "img": ""
+          }
+        ]
+    },
+
+    {
+        "category": "home",
+        "items": [
+          {
+            "id": 60,
+            "name": "Bedsheet 1",
+            "price": 29.99,
+            "description": "A soft and comfortable bedsheet with a stylish design.",
+            "img": ""
+          },
+          {
+            "id": 61,
+            "name": "Bedsheet 2",
+            "price": 34.99,
+            "description": "A high-quality bedsheet with a luxurious feel.",
+            "img": ""
+          },
+          {
+            "id": 62,
+            "name": "Bottle 1",
+            "price": 9.99,
+            "description": "A reusable water bottle with a sleek design.",
+            "img": ""
+          },
+          {
+            "id": 63,
+            "name": "Bottle 2",
+            "price": 12.99,
+            "description": "A stainless steel bottle that keeps drinks hot or cold.",
+            "img": ""
+          },
+          {
+            "id": 64,
+            "name": "Mirror 1",
+            "price": 49.99,
+            "description": "A decorative wall mirror with a modern frame.",
+            "img": ""
+          },
+          {
+            "id": 65,
+            "name": "Mirror 2",
+            "price": 59.99,
+            "description": "A large standing mirror with a stylish design.",
+            "img": ""
+          },
+          {
+            "id": 66,
+            "name": "Table Lamp 1",
+            "price": 39.99,
+            "description": "A stylish table lamp with adjustable brightness.",
+            "img": ""
+          },
+          {
+            "id": 67,
+            "name": "Table Lamp 2",
+            "price": 44.99,
+            "description": "A modern table lamp with a sleek design.",
+            "img": ""
+          }
+        ]
+    }
+        
+]
+  
